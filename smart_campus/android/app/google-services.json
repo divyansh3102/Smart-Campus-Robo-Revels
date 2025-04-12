@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "210530512230",
+    "project_id": "smartcampus-vedfl6",
+    "storage_bucket": "smartcampus-vedfl6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210530512230:android:2381d306ef0f92c0032ca7",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210530512230-ohaqfcnmp964rhp591dssru92dn8b384.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.smartcampus",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "210530512230-rtk3uusfmt2tiuuc14i6lrb0f1vuimj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXyoEdjBlbRuuKtRByeophe001K1oNkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210530512230-rtk3uusfmt2tiuuc14i6lrb0f1vuimj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210530512230-ss2nl3io5j9ptu4ds2kcmu33p6a410di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smartcampus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

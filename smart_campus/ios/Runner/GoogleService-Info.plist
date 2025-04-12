@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210530512230-ss2nl3io5j9ptu4ds2kcmu33p6a410di.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210530512230-ss2nl3io5j9ptu4ds2kcmu33p6a410di</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>210530512230-ohaqfcnmp964rhp591dssru92dn8b384.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYaqgl3qgYOJ7vncwy2Qkg7C9fsx1ajy0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210530512230</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.smartcampus</string>
+	<key>PROJECT_ID</key>
+	<string>smartcampus-vedfl6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartcampus-vedfl6.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210530512230:ios:3dd1c8f1f678e0a2032ca7</string>
+</dict>
+</plist>
